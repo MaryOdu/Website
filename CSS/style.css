@@ -42,14 +42,14 @@ h1 {
 }
 
 .carousel-inner img {
-    height: 400px; /* Fixed height for consistency */
-    object-fit: cover; /* Ensure images fit nicely */
+    height: 400px; 
+    object-fit: cover; 
 }
 
 /* Accordion Styling */
 .accordion {
-    width: 50%; /* Set width */
-    margin: 20px auto; /* Center horizontally */
+    width: 50%; 
+    margin: 20px auto; 
 }
 
 .accordion-button {
@@ -61,7 +61,7 @@ h1 {
     background-color: #adb5bd;
 }
 
-/* Footer */
+/* Footer
 .footer {
     text-align: center;
     background-color: #343a40;
@@ -70,3 +70,4 @@ h1 {
     width: 100%;
     margin-top: 20px;
 }
+ */
