@@ -1,23 +1,23 @@
-/* General Reset */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* General Body Styling - Flexbox to Center Everything */
+
 body {
-    background-color: #f8f9fa; /* Light gray background */
-    font-family: Arial, sans-serif; /* Clean font */
-    display: flex; /* Flexbox to center content */
-    flex-direction: column; /* Stack items vertically */
-    align-items: center; /* Center horizontally */
-    justify-content: center; /* Center vertically */
-    height: 100vh; /* Full viewport height */
-    margin: 0; /* Remove margin */
+    background-color: #f8f9fa; 
+    font-family: Arial, sans-serif;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    height: 100vh; 
+    margin: 0; 
 }
 
-/* Title Styling */
+
 h1 {
     text-align: center;
     margin: 20px 0;
@@ -25,17 +25,17 @@ h1 {
     font-size: 2.5rem;
 }
 
-/* Navbar Styling */
+
 .navbar {
     background-color: #6c757d !important;
-    width: 100%; /* Full-width navbar */
+    width: 100%; 
     margin-bottom: 20px;
 }
 
-/* Center the Carousel */
+
 .carousel {
-    width: 50%; /* Set width */
-    margin: 20px 0; /* Centered automatically with flexbox */
+    width: 50%; 
+    margin: 20px 0; 
     border: 2px solid #6c757d;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -46,7 +46,6 @@ h1 {
     object-fit: cover; 
 }
 
-/* Accordion Styling */
 .accordion {
     width: 50%; 
     margin: 20px auto; 
